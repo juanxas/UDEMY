@@ -1,13 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-/*En un hotel la información de las habitaciones se guarda en un array en el que cada posición es a su vez otro array
-con la información de una habitación concreta. La primera posición de cada array es el número de habitación
-y las tres siguientes posiciones es el precio de la habitación en temporada baja, media y alta.
 
-Ejemplo: [[1,120,150,220],[2,130,160,230],[3,100,120,200]]
-
-Escribe un programa en el que se defina una matriz como la anterior y muestre el promedio de cada una de las temporadas.*/
 
 int main()
 {

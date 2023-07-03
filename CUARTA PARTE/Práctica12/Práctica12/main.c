@@ -1,8 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-/*Escribir un programa que dado un array de números de 10 elementos,
-mostrar el valor máximo y el mínimo.*/
 
 int main()
 {

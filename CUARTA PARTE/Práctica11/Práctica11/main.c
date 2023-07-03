@@ -1,8 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-/*Cargar por teclado y almacenar en un vector el peso de 5 personas.
-Obtener el promedio de los mismos. Contar cu�ntas personas pesan m�s que el promedio
-y cu�ntas pesan menos.*/
+
 
 int main()
 {
